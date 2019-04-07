@@ -1,0 +1,72 @@
+#content{
+    max-width: 960;
+    margin:150px;
+    
+}
+.img-1{
+    display: block;
+    float: left;
+}
+.img-2{
+    display:none
+}
+.img-1 :hover +.img-2{
+    display: block;
+
+} 
+.img-3{
+    display: block;
+    float: left;
+}
+.img-4{
+    display:none
+}
+.img-3 :hover +.img-4{
+    display: block
+} 
+.img-5{
+    display: block;
+    float: left;
+}
+.img-6{
+    display:none
+}
+.img-5 :hover +.img-6{
+    display: block
+} 
+.img-7{
+    display: block;
+    float: left;
+}
+.img-8{
+    display:none
+}
+.img-7 :hover +.img-8{
+    display: block
+} 
+.img-9{
+    display: block;
+    float: left;
+}
+.img-10{
+    display:none
+}
+.img-9 :hover +.img-10{
+    display: block
+} 
+.img-11{
+    display: block;
+    float: left;
+} 
+.img-12{
+display:none
+}
+.img-11 :hover +.img-12{
+    display: block;
+} 
+
+
+
+
+
+
